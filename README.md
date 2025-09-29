@@ -2,6 +2,21 @@
 I´m Bonnie, <br>
 a front-end developer, bookworm and programming nerd fueled by curiosity, a positive outlook and coffee.
 
+## 🛠️ Tech Stack & Tools
+
+- CSS  
+- Sass  
+- Tailwind CSS  
+- JavaScript  
+- TypeScript  
+- React  
+- Next.js  
+- WordPress  
+- UX-Design  
+- Figma  
+- Git  
+- GitHub
+
 ### Doing right now: 
 Leveling up my fullstack skills att miun university 👩‍💻
 
