@@ -18,7 +18,7 @@ a front-end developer, bookworm and programming nerd fueled by curiosity, a posi
 - GitHub
 
 ## Doing right now 👩‍💻 
-Leveling up my fullstack skills att miun university 
+Leveling up my fullstack skills att Mid Sweden University
 
 ## Contact 📫
 
