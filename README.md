@@ -2,7 +2,7 @@
 I´m Bonnie, <br>
 a front-end developer, bookworm and programming nerd fueled by curiosity, a positive outlook and coffee.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools 🛠️
 
 - CSS  
 - Sass  
@@ -17,10 +17,10 @@ a front-end developer, bookworm and programming nerd fueled by curiosity, a posi
 - Git  
 - GitHub
 
-### Doing right now: 
-Leveling up my fullstack skills att miun university 👩‍💻
+## Doing right now 👩‍💻 
+Leveling up my fullstack skills att miun university 
 
-## 📫 Contact
+## Contact 📫
 
 **Bonnie Möller**  
 💌 hello@bonniemo.io
